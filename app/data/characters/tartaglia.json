@@ -1,0 +1,205 @@
+{
+  "name": "Tartaglia",
+  "weapon": "Bow",
+  "region": "Snezhnaya",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
+  "vision": {
+    "name": "Hydro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+  },
+  "build": [
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Polar Star",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png"
+        },
+        {
+          "name": "Aqua Simulacra",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png"
+        },
+        {
+          "name": "Hunter's Path",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png"
+        },
+        {
+          "name": "Thundering Pulse",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png"
+        },
+        {
+          "name": "Skyward Harp",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png"
+        },
+        {
+          "name": "Amos' Bow",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Amos'_Bow.png"
+        },
+        {
+          "name": "The Viridescent Hunt",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Viridescent_Hunt.png"
+        },
+        {
+          "name": "Prototype Crescent",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Crescent.png"
+        },
+        {
+          "name": "King's Squire",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/King's_Squire.png"
+        },
+        {
+          "name": "Mouun's Moon",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mouun's_Moon.png"
+        },
+        {
+          "name": "Hamayumi",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hamayumi.png"
+        },
+        {
+          "name": "Fading Twilight",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fading_Twilight.png"
+        },
+        {
+          "name": "Blackcliff Warbow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Warbow.png"
+        },
+        {
+          "name": "The Stringless",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png"
+        },
+        {
+          "name": "Elegy of the End",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_of_the_End.png"
+        },
+        {
+          "name": "Rust",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Rust.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Nymph's Dream",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/nymph's_dream.png"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+15% Hydro DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            }
+          ]
+        },
+        {
+          "mix": [
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "+15% Hydro DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            }
+          ]
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK%"
+            },
+            {
+              "name": "Goblet - Hydro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Elemental Mastery > Energy Recharge > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Normal Attack"
+        }
+      ]
+    }
+  ]
+}

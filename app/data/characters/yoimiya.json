@@ -1,0 +1,153 @@
+{
+  "name": "Yoimiya",
+  "weapon": "Bow",
+  "region": "Inazuma",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Yoimiya.png",
+  "vision": {
+    "name": "Pyro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+  },
+  "build": [
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Thundering Pulse",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png"
+        },
+        {
+          "name": "Aqua Simulacra",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png"
+        },
+        {
+          "name": "Polar Star",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png"
+        },
+        {
+          "name": "Hunter's Path",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png"
+        },
+        {
+          "name": "Slingshot",
+          "rarity": 3,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Slingshot.png"
+        },
+        {
+          "name": "Amos' Bow",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Amos'_Bow.png"
+        },
+        {
+          "name": "Skyward Harp",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png"
+        },
+        {
+          "name": "Rust",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Rust.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "name": "Echoes of an Offering",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/echoes_of_an_offering.png"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Crimson Witch of Flames",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Pyro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Elemental Mastery > Energy Recharge > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    }
+  ]
+}

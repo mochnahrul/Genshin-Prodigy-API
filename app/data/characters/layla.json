@@ -1,0 +1,135 @@
+{
+  "name": "Layla",
+  "weapon": "Sword",
+  "region": "Sumeru",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Layla.png",
+  "vision": {
+    "name": "Cryo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+  },
+  "build": [
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Key of Khaj-Nisut",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png"
+        },
+        {
+          "name": "The Dockhand's Assistant",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Dockhand's_Assistant.png"
+        },
+        {
+          "name": "Primordial Jade Cutter",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png"
+        },
+        {
+          "name": "Favonius Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Harbinger of Dawn",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            },
+            {
+              "name": "Blizzard Strayer",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - HP% / Energy Recharge"
+            },
+            {
+              "name": "Goblet - HP% / Cryo DMG"
+            },
+            {
+              "name": "Circlet - HP% / Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - HP% > Energy Recharge > Crit Rate / DMG"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "name": "Zhongli",
+  "weapon": "Polearm",
+  "region": "Liyue",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Zhongli.png",
+  "vision": {
+    "name": "Geo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+  },
+  "build": [
+    {
+      "role": "PHYSICAL DPS",
+      "weapon": [
+        {
+          "name": "Crescent Pike",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Crescent_Pike.png"
+        },
+        {
+          "name": "Primordial Jade Winged-Spear",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png"
+        },
+        {
+          "name": "Staff of Homa",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png"
+        },
+        {
+          "name": "Vortex Vanquisher",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Vortex_Vanquisher.png"
+        },
+        {
+          "name": "Deathmatch",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png"
+        },
+        {
+          "name": "Skyward Spine",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png"
+        },
+        {
+          "name": "Dragonspine Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Dragonspine_Spear.png"
+        },
+        {
+          "name": "Blackcliff Pole",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Pole.png"
+        },
+        {
+          "name": "White Tassel",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/White_Tassel.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Pale Flame",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Pale Flame",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png"
+            },
+            {
+              "name": "Bloodstained Chivalry",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/bloodstained_chivalry.png"
+            }
+          ]
+        },
+        {
+          "name": "Gladiator's Finale",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+25% Physical DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/pale_flame.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            }
+          ]
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK% / HP%"
+            },
+            {
+              "name": "Goblet - Physical DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > HP% > Energy Recharge > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        }
+      ]
+    },
+    {
+      "role": "SHIELD SUPPORT",
+      "weapon": [
+        {
+          "name": "Black Tassel",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png"
+        },
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png"
+        },
+        {
+          "name": "Deepwood Memories",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - HP%"
+            },
+            {
+              "name": "Goblet - HP%"
+            },
+            {
+              "name": "Circlet - HP% / Crit Rate"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - HP% > Flat HP > Energy Recharge"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    },
+    {
+      "role": "BURST SUPPORT",
+      "weapon": [
+        {
+          "name": "Staff of Homa",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png"
+        },
+        {
+          "name": "Primordial Jade Winged-Spear",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png"
+        },
+        {
+          "name": "Skyward Spine",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png"
+        },
+        {
+          "name": "Vortex Vanquisher",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Vortex_Vanquisher.png"
+        },
+        {
+          "name": "Calamity Queller",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png"
+        },
+        {
+          "name": "The Catch",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png"
+        },
+        {
+          "name": "Deathmatch",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png"
+        },
+        {
+          "name": "Engulfing Lightning",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png"
+        },
+        {
+          "name": "Lithic Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lithic_Spear.png"
+        },
+        {
+          "name": "Blackcliff Pole",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Pole.png"
+        },
+        {
+          "name": "Missive Windspear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Missive_Windspear.png"
+        },
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "Archaic Petra",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png"
+            }
+          ]
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK% / HP%"
+            },
+            {
+              "name": "Goblet - Geo DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > HP% > Energy Recharge > Flat ATK > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

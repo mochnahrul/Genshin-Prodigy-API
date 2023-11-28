@@ -1,0 +1,325 @@
+{
+  "name": "Kokomi",
+  "weapon": "Catalyst",
+  "region": "Inazuma",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png",
+  "vision": {
+    "name": "Hydro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+  },
+  "build": [
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Thrilling Tales of Dragon Slayers",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png"
+        },
+        {
+          "name": "Prototype Amber",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png"
+        },
+        {
+          "name": "Hakushin Ring",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png"
+        },
+        {
+          "name": "Sacrificial Fragments",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Maiden Beloved",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png"
+            },
+            {
+              "name": "Ocean-Hued Clam",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+            },
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / HP%"
+            },
+            {
+              "name": "Goblet - HP%"
+            },
+            {
+              "name": "Circlet - Healing Bonus / HP%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > HP% > ATK% > Flat HP > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    },
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Everlasting Moonglow",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Everlasting_Moonglow.png"
+        },
+        {
+          "name": "Prototype Amber",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png"
+        },
+        {
+          "name": "Hakushin Ring",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png"
+        },
+        {
+          "name": "Thrilling Tales of Dragon Slayers",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+        },
+        {
+          "name": "Heart of Depth",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Maiden Beloved",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png"
+            },
+            {
+              "name": "Ocean-Hued Clam",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+            },
+            {
+              "name": "+15% Hydro DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+            },
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            }
+          ]
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - HP% / Energy Recharge"
+            },
+            {
+              "name": "Goblet - Hydro DMG"
+            },
+            {
+              "name": "Circlet - Healing Bonus"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - HP% > Energy Recharge > ATK% > Flat HP > Elemental Mastery > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Skill"
+        }
+      ]
+    },
+    {
+      "role": "BLOOM DPS",
+      "weapon": [
+        {
+          "name": "A Thousand Floating Dreams",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png"
+        },
+        {
+          "name": "Sacrificial Fragments",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png"
+        },
+        {
+          "name": "Magic Guide",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Magic_Guide.png"
+        },
+        {
+          "name": "Fruit of Fulfillment",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fruit_of_Fulfillment.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Flower of Paradise Lost",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+            }
+          ]
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Elemental Mastery > Energy Recharge > HP% > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

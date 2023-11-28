@@ -1,0 +1,171 @@
+{
+  "name": "Furina",
+  "weapon": "Sword",
+  "region": "Fontaine",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
+  "vision": {
+    "name": "Hydro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+  },
+  "build": [
+    {
+      "role": "OFF-FIELD DPS & SUPPORT",
+      "weapon": [
+        {
+          "name": "Splendor of Tranquil Waters",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Splendor_of_Tranquil_Waters.png"
+        },
+        {
+          "name": "Primordial Jade Cutter",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png"
+        },
+        {
+          "name": "Festering Desire",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png"
+        },
+        {
+          "name": "Key of Khaj-Nisut",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png"
+        },
+        {
+          "name": "Fleuve Cendre Ferryman",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fleuve_Cendre_Ferryman.png"
+        },
+        {
+          "name": "Favonius Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png"
+        },
+        {
+          "name": "Wolf-Fang",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Wolf-Fang.png"
+        },
+        {
+          "name": "Haran Geppaku Futsu",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png"
+        },
+        {
+          "name": "Light of Foliar Incision",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png"
+        },
+        {
+          "name": "Mistsplitter Reforged",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png"
+        },
+        {
+          "name": "Skyward Blade",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png"
+        },
+        {
+          "name": "The Dockhand's Assistant",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Dockhand's_Assistant.png"
+        },
+        {
+          "name": "Harbinger of Dawn",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Golden Troupe",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+15% Hydro DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+            },
+            {
+              "name": "Golden Troupe",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+            },
+            {
+              "name": "+20% HP set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / HP%"
+            },
+            {
+              "name": "Goblet - HP% / Hydro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > HP% > Crit Rate / DMG > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

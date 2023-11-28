@@ -1,0 +1,141 @@
+{
+  "name": "Kirara",
+  "weapon": "Sword",
+  "region": "Inazuma",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kirara.png",
+  "vision": {
+    "name": "Dendro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+  },
+  "build": [
+    {
+      "role": "SHIELD SUPPORT",
+      "weapon": [
+        {
+          "name": "Favonius Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png"
+        },
+        {
+          "name": "Key of Khaj-Nisut",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png"
+        },
+        {
+          "name": "The Dockhand's Assistant",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Dockhand's_Assistant.png"
+        },
+        {
+          "name": "Sacrificial Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png"
+        },
+        {
+          "name": "Sapwood Blade",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png"
+        },
+        {
+          "name": "Festering Desire",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Primordial Jade Cutter",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png"
+        }
+      ],
+      "artifact": [
+        {
+          "mix": [
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            },
+            {
+              "name": "Vourukasha's Glow",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/vourukasha's_glow.png"
+            }
+          ]
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "name": "Deepwood Memories",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - HP% / Energy Recharge"
+            },
+            {
+              "name": "Goblet - HP%"
+            },
+            {
+              "name": "Circlet - HP% / Crit Rate"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > HP% > Crit Rate > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "name": "Kuki Shinobu",
+  "weapon": "Sword",
+  "region": "Inazuma",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kuki%20Shinobu.png",
+  "vision": {
+    "name": "Electro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+  },
+  "build": [
+    {
+      "role": "HYPERBLOOM",
+      "weapon": [
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Xiphos' Moonlight",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Xiphos'_Moonlight.png"
+        },
+        {
+          "name": "Iron Sting",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png"
+        },
+        {
+          "name": "Key of Khaj-Nisut",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png"
+        },
+        {
+          "name": "Toukabou Shigure",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Toukabou_Shigure.png"
+        },
+        {
+          "name": "Dark Iron Sword",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Dark_Iron_Sword.png"
+        },
+        {
+          "name": "Sapwood Blade",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Flower of Paradise Lost",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+            }
+          ]
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Elemental Mastery > HP% > Flat HP > Energy Recharge"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    },
+    {
+      "role": "AGGRAVATE",
+      "weapon": [
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Primordial Jade Cutter",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png"
+        },
+        {
+          "name": "Key of Khaj-Nisut",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png"
+        },
+        {
+          "name": "Festering Desire",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png"
+        },
+        {
+          "name": "Xiphos' Moonlight",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Xiphos'_Moonlight.png"
+        },
+        {
+          "name": "Iron Sting",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png"
+        },
+        {
+          "name": "Sapwood Blade",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png"
+        },
+        {
+          "name": "Favonius Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png"
+        },
+        {
+          "name": "Dark Iron Sword",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Dark_Iron_Sword.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Thundering Fury",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            }
+          ]
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Electro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate / DMG > Elemental Mastery > HP% > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    },
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Favonius Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Key of Khaj-Nisut",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Key_of_Khaj-Nisut.png"
+        },
+        {
+          "name": "The Dockhand's Assistant",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Dockhand's_Assistant.png"
+        },
+        {
+          "name": "Iron Sting",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+20% ER set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - HP%"
+            },
+            {
+              "name": "Goblet - HP%"
+            },
+            {
+              "name": "Circlet - Healing Bonus / HP% / Crit Rate"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - HP% > Crit Rate > Elemental Mastery > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

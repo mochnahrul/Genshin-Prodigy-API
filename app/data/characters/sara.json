@@ -1,0 +1,193 @@
+{
+  "name": "Sara",
+  "weapon": "Bow",
+  "region": "Inazuma",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Sara.png",
+  "vision": {
+    "name": "Electro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+  },
+  "build": [
+    {
+      "role": "BURST SUPPORT",
+      "weapon": [
+        {
+          "name": "Polar Star",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png"
+        },
+        {
+          "name": "Skyward Harp",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png"
+        },
+        {
+          "name": "Hunter's Path",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png"
+        },
+        {
+          "name": "Aqua Simulacra",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png"
+        },
+        {
+          "name": "Thundering Pulse",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png"
+        },
+        {
+          "name": "Amos' Bow",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Amos'_Bow.png"
+        },
+        {
+          "name": "Mouun's Moon",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mouun's_Moon.png"
+        },
+        {
+          "name": "Elegy for the End",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png"
+        },
+        {
+          "name": "Alley Hunter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Alley_Hunter.png"
+        },
+        {
+          "name": "Fading Twilight",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fading_Twilight.png"
+        },
+        {
+          "name": "The Viridescent Hunt",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Viridescent_Hunt.png"
+        },
+        {
+          "name": "Blackcliff Warbow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Warbow.png"
+        },
+        {
+          "name": "Sacrificial Bow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png"
+        },
+        {
+          "name": "Prototype Crescent",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Crescent.png"
+        },
+        {
+          "name": "Favonius Warbow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png"
+        },
+        {
+          "name": "Messenger",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Messenger.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "Thundering Fury",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            }
+          ]
+        },
+        {
+          "mix": [
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / ATK%"
+            },
+            {
+              "name": "Goblet - Electro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate / DMG > ATK% > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

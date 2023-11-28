@@ -1,0 +1,143 @@
+{
+  "name": "Kaveh",
+  "weapon": "Claymore",
+  "region": "Sumeru",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kaveh.png",
+  "vision": {
+    "name": "Dendro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+  },
+  "build": [
+    {
+      "role": "BLOOM DRIVER",
+      "weapon": [
+        {
+          "name": "Favonius Greatsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png"
+        },
+        {
+          "name": "Sacrificial Greatsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Greatsword.png"
+        },
+        {
+          "name": "Mailed Flower",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mailed_Flower.png"
+        },
+        {
+          "name": "Wolf's Gravestone",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png"
+        },
+        {
+          "name": "Song of Broken Pines",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png"
+        },
+        {
+          "name": "Makhaira Aquamarine",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Makhaira_Aquamarine.png"
+        },
+        {
+          "name": "Katsuragikiri Nagamasa",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Katsuragikiri_Nagamasa.png"
+        },
+        {
+          "name": "Skyward Pride",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png"
+        },
+        {
+          "name": "Forest Regalia",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Forest_Regalia.png"
+        },
+        {
+          "name": "Rainslasher",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Rainslasher.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Deepwood Memories",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+        },
+        {
+          "name": "Flower of Paradise Lost",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png"
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Elemental Mastery / Crit Rate"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Elemental Mastery > Crit Rate"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Skill"
+        }
+      ]
+    }
+  ]
+}

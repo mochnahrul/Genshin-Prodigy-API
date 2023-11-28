@@ -1,0 +1,113 @@
+{
+  "name": "Collei",
+  "weapon": "Bow",
+  "region": "Sumeru",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Collei.png",
+  "vision": {
+    "name": "Dendro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+  },
+  "build": [
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Elegy for the End",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png"
+        },
+        {
+          "name": "Polar Star",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png"
+        },
+        {
+          "name": "Sacrificial Bow",
+          "rarity": 4,
+          "refine": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png"
+        },
+        {
+          "name": "Favonius Warbow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Deepwood Memories",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "name": "The Exile",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / ATK% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Dendro DMG / Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG / Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate / DMG > ATK% > Elemental Mastery"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

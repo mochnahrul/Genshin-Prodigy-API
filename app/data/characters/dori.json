@@ -1,0 +1,101 @@
+{
+  "name": "Dori",
+  "weapon": "Claymore",
+  "region": "Sumeru",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Dori.png",
+  "vision": {
+    "name": "Electro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+  },
+  "build": [
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Favonius Greatsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png"
+        },
+        {
+          "name": "Sacrificial Greatsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Greatsword.png"
+        },
+        {
+          "name": "Katsuragikiri Nagamasa",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Katsuragikiri_Nagamasa.png"
+        },
+        {
+          "name": "Forest Regalia",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Forest_Regalia.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "name": "Deepwood Memories",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "name": "The Exile",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / HP% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - HP% / Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Healing Bonus / HP% / Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate > Energy Recharge > HP% > Elemental Mastery"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

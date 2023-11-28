@@ -1,0 +1,99 @@
+{
+  "name": "Gorou",
+  "weapon": "Bow",
+  "region": "Inazuma",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Gorou.png",
+  "vision": {
+    "name": "Geo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+  },
+  "build": [
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Favonius Warbow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png"
+        },
+        {
+          "name": "Sacrificial Bow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png"
+        },
+        {
+          "name": "Elegy for the End",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "The Exile",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+20% ER set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "+20% ER set",
+              "rarity": 4,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge"
+            },
+            {
+              "name": "Goblet - Geo DMG / DEF%"
+            },
+            {
+              "name": "Circlet - Crit Rate / DEF% / Healing Bonus"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > DEF% > Crit Rate"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

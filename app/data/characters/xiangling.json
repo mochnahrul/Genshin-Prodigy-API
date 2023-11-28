@@ -1,0 +1,223 @@
+{
+  "name": "Xiangling",
+  "weapon": "Polearm",
+  "region": "Liyue",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Xiangling.png",
+  "vision": {
+    "name": "Pyro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+  },
+  "build": [
+    {
+      "role": "OFF-FIELD DPS",
+      "weapon": [
+        {
+          "name": "Staff of the Scarlet Sands",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png"
+        },
+        {
+          "name": "Staff of Homa",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png"
+        },
+        {
+          "name": "Engulfing Lightning",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png"
+        },
+        {
+          "name": "The Catch",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png"
+        },
+        {
+          "name": "Primordial Jade Winged-Spear",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png"
+        },
+        {
+          "name": "Skyward Spine",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png"
+        },
+        {
+          "name": "Calamity Queller",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png"
+        },
+        {
+          "name": "Deathmatch",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png"
+        },
+        {
+          "name": "Ballad of the Fjords",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Ballad_of_the_Fjords.png"
+        },
+        {
+          "name": "Vortex Vanquisher",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Vortex_Vanquisher.png"
+        },
+        {
+          "name": "Wavebreaker's Fin",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Wavebreaker's_Fin.png"
+        },
+        {
+          "name": "Dragon's Bane",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Dragon's_Bane.png"
+        },
+        {
+          "name": "Missive Windspear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Missive_Windspear.png"
+        },
+        {
+          "name": "Kitain Cross Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png"
+        },
+        {
+          "name": "Lithic Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lithic_Spear.png"
+        },
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        },
+        {
+          "name": "Prototype Starglitter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "Crimson Witch of Flames",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+20% ER set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "+20% ER set",
+              "rarity": 4,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / ATK% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Pyro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate / DMG > ATK% > Elemental Mastery > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

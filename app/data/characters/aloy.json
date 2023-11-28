@@ -1,0 +1,181 @@
+{
+  "name": "Aloy",
+  "weapon": "Bow",
+  "region": "Horizon Zero Down",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
+  "vision": {
+    "name": "Cryo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+  },
+  "build": [
+    {
+      "role": "BURST SUPPORT",
+      "weapon": [
+        {
+          "name": "Thundering Pulse",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png"
+        },
+        {
+          "name": "Polar Star",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png"
+        },
+        {
+          "name": "Skyward Harp",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png"
+        },
+        {
+          "name": "The Stringless",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png"
+        },
+        {
+          "name": "Amos' Bow",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Amos'_Bow.png"
+        },
+        {
+          "name": "Alley Hunter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Alley_Hunter.png"
+        },
+        {
+          "name": "Prototype Crescent",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Crescent.png"
+        },
+        {
+          "name": "Predator",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Predator.png"
+        },
+        {
+          "name": "Sacrificial Bow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png"
+        },
+        {
+          "name": "Slingshot",
+          "rarity": 3,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Slingshot.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Blizzard Strayer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "Blizzard Strayer",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            }
+          ]
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "Blizzard Strayer",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Cryo DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% / Elemental Mastery > Energy Recharge > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

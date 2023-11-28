@@ -1,0 +1,467 @@
+{
+  "name": "Bennett",
+  "weapon": "Sword",
+  "region": "Mondstadt",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Bennett.png",
+  "vision": {
+    "name": "Pyro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+  },
+  "build": [
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Mistsplitter Reforged",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png"
+        },
+        {
+          "name": "Primordial Jade Cutter",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Summit Shaper",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Summit_Shaper.png"
+        },
+        {
+          "name": "Aquila Favonia",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aquila_Favonia.png"
+        },
+        {
+          "name": "Blackcliff Longsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Longsword.png"
+        },
+        {
+          "name": "Iron Sting",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png"
+        },
+        {
+          "name": "The Alley Flash",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Alley_Flash.png"
+        },
+        {
+          "name": "Skyward Blade",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png"
+        },
+        {
+          "name": "The Black Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Black_Sword.png"
+        },
+        {
+          "name": "Iron Sting",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png"
+        },
+        {
+          "name": "Festering Desire",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png"
+        },
+        {
+          "name": "Prototype Rancour",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Rancour.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Crimson Witch of Flames",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery / ATK%"
+            },
+            {
+              "name": "Goblet - Pyro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > Elemental Mastery > ATK% > Energy Recharge"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Normal Attack"
+        }
+      ]
+    },
+    {
+      "role": "BURST SUPPORT",
+      "weapon": [
+        {
+          "name": "Mistsplitter Reforged",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png"
+        },
+        {
+          "name": "Aquila Favonia",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aquila_Favonia.png"
+        },
+        {
+          "name": "Skyward Blade",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "The Alley Flash",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Alley_Flash.png"
+        },
+        {
+          "name": "Sapwood Blade",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png"
+        },
+        {
+          "name": "Blackcliff Longsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Longsword.png"
+        },
+        {
+          "name": "Prototype Rancour",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Rancour.png"
+        },
+        {
+          "name": "Festering Desire",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            },
+            {
+              "name": "Crimson Witch of Flames",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK% / Energy Recharge"
+            },
+            {
+              "name": "Goblet - Pyro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Energy Recharge > Elemental Mastery"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    },
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Mistsplitter Reforged",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png"
+        },
+        {
+          "name": "Aquila Favonia",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aquila_Favonia.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "The Alley Flash",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Alley_Flash.png"
+        },
+        {
+          "name": "Skyward Blade",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png"
+        },
+        {
+          "name": "Sapwood Blade",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png"
+        },
+        {
+          "name": "Blackcliff Longsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Longsword.png"
+        },
+        {
+          "name": "Prototype Rancour",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Rancour.png"
+        },
+        {
+          "name": "Festering Desire",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png"
+        },
+        {
+          "name": "Favonius Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png"
+        },
+        {
+          "name": "Sacrificial Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+20% ER set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "+20% ER set",
+              "rarity": 4,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+            }
+          ]
+        },
+        {
+          "mix": [
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            },
+            {
+              "name": "+15% Healing Bonus set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / HP%"
+            },
+            {
+              "name": "Goblet - HP%"
+            },
+            {
+              "name": "Circlet - Healing Bonus / HP%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > HP% > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

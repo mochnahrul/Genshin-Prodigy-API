@@ -1,0 +1,107 @@
+{
+  "name": "Traveler (Hydro)",
+  "weapon": "Sword",
+  "region": "Descender",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler%20(Hydro).png",
+  "vision": {
+    "name": "Hydro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+  },
+  "build": [
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Favonius Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png"
+        },
+        {
+          "name": "Fleuve Cendre Ferryman",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fleuve_Cendre_Ferryman.png"
+        },
+        {
+          "name": "Skyward Blade",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Sacrificial Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png"
+        },
+        {
+          "name": "Amenoma Kageuchi",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Amenoma_Kageuchi.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / ATK%"
+            },
+            {
+              "name": "Goblet - Hydro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG / Healing Bonus"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate / DMG > ATK% > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

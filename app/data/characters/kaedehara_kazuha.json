@@ -1,0 +1,125 @@
+{
+  "name": "Kaedehara Kazuha",
+  "weapon": "Sword",
+  "region": "Inazuma",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kazuha.png",
+  "vision": {
+    "name": "Anemo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+  },
+  "build": [
+    {
+      "role": "REACTION DPS & SUPPORT",
+      "weapon": [
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Xiphos' Moonlight",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Xiphos'_Moonlight.png"
+        },
+        {
+          "name": "Favonius Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Sword.png"
+        },
+        {
+          "name": "Iron Sting",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png"
+        },
+        {
+          "name": "Toukabou Shigure",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Toukabou_Shigure.png"
+        },
+        {
+          "name": "Sacrificial Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Sword.png"
+        },
+        {
+          "name": "Fleuve Cendre Ferryman",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fleuve_Cendre_Ferryman.png"
+        },
+        {
+          "name": "Sapwood Blade",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sapwood_Blade.png"
+        },
+        {
+          "name": "Skyward Blade",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Viridescent Venerer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery / Energy Recharge"
+            },
+            {
+              "name": "Goblet - Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Elemental Mastery > ATK% > Crit Rate"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

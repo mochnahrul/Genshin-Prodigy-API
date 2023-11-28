@@ -1,0 +1,117 @@
+{
+  "name": "Arataki Itto",
+  "weapon": "Claymore",
+  "region": "Inazuma",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Itto.png",
+  "vision": {
+    "name": "Geo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+  },
+  "build": [
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Redhorn Stonethresher",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png"
+        },
+        {
+          "name": "Serpent Spine",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png"
+        },
+        {
+          "name": "Skyward Pride",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png"
+        },
+        {
+          "name": "Whiteblind",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Whiteblind.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+        },
+        {
+          "name": "Desert Pavilion Chronicle",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Husk of Opulent Dreams",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+            },
+            {
+              "name": "Archaic Petra",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - DEF%"
+            },
+            {
+              "name": "Goblet - Geo DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > DEF% > Energy Recharge > ATK% > Flat DEF > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        }
+      ]
+    }
+  ]
+}

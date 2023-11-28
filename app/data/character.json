@@ -1,0 +1,713 @@
+[
+  {
+    "name": "Albedo",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Albedo.png",
+    "vision": {
+      "name": "Geo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+    }
+  },
+  {
+    "name": "Alhaitham",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Alhaitham.png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Aloy",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Aloy.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Amber",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Amber.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Arataki Itto",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Itto.png",
+    "vision": {
+      "name": "Geo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+    }
+  },
+  {
+    "name": "Baizhu",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Baizhu.png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Barbara",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Barbara.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Beidou",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Beidou.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Bennett",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Bennett.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Candace",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Candace.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Charlotte",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Charlotte.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Chongyun",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Chongyun.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Collei",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Collei.png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Cyno",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Dehya",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Dehya.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Diluc",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Diluc.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Diona",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Diona.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Dori",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Dori.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Eula",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Eula.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Faruzan",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Faruzan.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Fischl",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Fischl.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Freminet",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Freminet.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Furina",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Furina.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Ganyu",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Ganyu.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Gorou",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Gorou.png",
+    "vision": {
+      "name": "Geo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+    }
+  },
+  {
+    "name": "Hu Tao",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Hu%20Tao.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Jean",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Jean.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Kaedehara Kazuha",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kazuha.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Kaeya",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kaeya.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Kamisato Ayaka",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Ayaka.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Kamisato Ayato",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Ayato.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Kaveh",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kaveh.png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Keqing",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Keqing.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Kirara",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kirara.png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Klee",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Klee.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Kokomi",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kokomi.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Kuki Shinobu",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Kuki%20Shinobu.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Layla",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Layla.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Lisa",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Lisa.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Lynette",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Lynette.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Lyney",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Lyney.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Mika",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Mika.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Mona",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Mona.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Nahida",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Nahida.png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Neuvillette",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Neuvillette.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Nilou",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Nilou.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Ningguang",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Ningguang.png",
+    "vision": {
+      "name": "Geo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+    }
+  },
+  {
+    "name": "Noelle",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Noelle.png",
+    "vision": {
+      "name": "Geo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+    }
+  },
+  {
+    "name": "Qiqi",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Qiqi.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Raiden Shogun",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Raiden.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Razor",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Razor.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Rosaria",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Rosaria.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Sara",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Sara.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Sayu",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Sayu.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Shenhe",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Shikanoin Heizou",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Sucrose",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Tartaglia",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Childe.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Thoma",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Tighnari",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Tighnari.png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Traveler (Anemo)",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler%20(Anemo).png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Traveler (Dendro)",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler%20(Dendro).png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Traveler (Electro)",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler%20(Electro).png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Traveler (Geo)",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler%20(Geo).png",
+    "vision": {
+      "name": "Geo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+    }
+  },
+  {
+    "name": "Traveler (Hydro)",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Traveler%20(Hydro).png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Venti",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Venti.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Wanderer",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Wanderer.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Wriothesley",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
+    "vision": {
+      "name": "Cryo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+    }
+  },
+  {
+    "name": "Xiangling",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Xiangling.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Xiao",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Xiao.png",
+    "vision": {
+      "name": "Anemo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+    }
+  },
+  {
+    "name": "Xingqiu",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Xingqiu.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Xinyan",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Xinyan.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Yae Miko",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Yae%20Miko.png",
+    "vision": {
+      "name": "Electro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+    }
+  },
+  {
+    "name": "Yanfei",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Yanfei.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Yaoyao",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Yaoyao.png",
+    "vision": {
+      "name": "Dendro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+    }
+  },
+  {
+    "name": "Yelan",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
+    "vision": {
+      "name": "Hydro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+    }
+  },
+  {
+    "name": "Yoimiya",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Yoimiya.png",
+    "vision": {
+      "name": "Pyro",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+    }
+  },
+  {
+    "name": "Yun Jin",
+    "rarity": 4,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Yun Jin.png",
+    "vision": {
+      "name": "Geo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+    }
+  },
+  {
+    "name": "Zhongli",
+    "rarity": 5,
+    "image": "https://rerollcdn.com/GENSHIN/Characters/1/Zhongli.png",
+    "vision": {
+      "name": "Geo",
+      "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+    }
+  }
+]

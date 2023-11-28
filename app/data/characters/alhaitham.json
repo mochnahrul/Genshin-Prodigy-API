@@ -1,0 +1,177 @@
+{
+  "name": "Alhaitham",
+  "weapon": "Sword",
+  "region": "Sumeru",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Alhaitham.png",
+  "vision": {
+    "name": "Dendro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+  },
+  "build": [
+    {
+      "role": "SPREAD DPS",
+      "weapon": [
+        {
+          "name": "Light of Foliar Incision",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png"
+        },
+        {
+          "name": "Primordial Jade Cutter",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png"
+        },
+        {
+          "name": "Mistsplitter Reforged",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png"
+        },
+        {
+          "name": "Haran Geppaku Futsu",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        },
+        {
+          "name": "Wolf-Fang",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Wolf-Fang.png"
+        },
+        {
+          "name": "Toukabou Shigure",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Toukabou_Shigure.png"
+        },
+        {
+          "name": "The Black Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Black_Sword.png"
+        },
+        {
+          "name": "Summit Shaper",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Summit_Shaper.png"
+        },
+        {
+          "name": "Iron Sting",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Iron_Sting.png"
+        },
+        {
+          "name": "Blackcliff Longsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Longsword.png"
+        },
+        {
+          "name": "Harbinger of Dawn",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png"
+        },
+        {
+          "name": "Xiphos' Moonlight",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Xiphos'_Moonlight.png"
+        },
+        {
+          "name": "Festering Desire",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Festering_Desire.png"
+        },
+        {
+          "name": "Skyward Blade",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Deepwood Memories",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        },
+        {
+          "name": "Deepwood Memories",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands -  Elemental Mastery / ATK%"
+            },
+            {
+              "name": "Goblet - Dendro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate / DMG > Elemental Mastery >  ATK% > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    }
+  ]
+}

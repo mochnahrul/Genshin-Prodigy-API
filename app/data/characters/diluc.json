@@ -1,0 +1,165 @@
+{
+  "name": "Diluc",
+  "weapon": "Claymore",
+  "region": "Mondstadt",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Diluc.png",
+  "vision": {
+    "name": "Pyro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+  },
+  "build": [
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Redhorn Stonethresher",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png"
+        },
+        {
+          "name": "Beacon of the Reed Sea",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Beacon_of_the_Reed_Sea.png"
+        },
+        {
+          "name": "Serpent Spine",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png"
+        },
+        {
+          "name": "Wolf's Gravestone",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Wolf's_Gravestone.png"
+        },
+        {
+          "name": "The Unforged",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Unforged.png"
+        },
+        {
+          "name": "Rainslasher",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Rainslasher.png"
+        },
+        {
+          "name": "Mailed Flower",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mailed_Flower.png"
+        },
+        {
+          "name": "Skyward Pride",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png"
+        },
+        {
+          "name": "Song of Broken Pines",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Song_of_Broken_Pines.png"
+        },
+        {
+          "name": "Blackcliff Slasher",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Slasher.png"
+        },
+        {
+          "name": "Luxurious Sea-Lord",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Luxurious_Sea-Lord.png"
+        },
+        {
+          "name": "Prototype Archaic",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Archaic.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Crimson Witch of Flames",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        },
+        {
+          "name": "Gladiator's Finale",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery / ATK%"
+            },
+            {
+              "name": "Goblet - Pyro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Elemental Mastery > Energy Recharge"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "name": "Thoma",
+  "weapon": "Polearm",
+  "region": "Inazuma",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Thoma.png",
+  "vision": {
+    "name": "Pyro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+  },
+  "build": [
+    {
+      "role": "BURGEON",
+      "weapon": [
+        {
+          "name": "Kitain Cross Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png"
+        },
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        },
+        {
+          "name": "Dragon's Bane",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Dragon's_Bane.png"
+        },
+        {
+          "name": "Moonpiercer",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Moonpiercer.png"
+        },
+        {
+          "name": "Black Tassel",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Flower of Paradise Lost",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+            }
+          ]
+        },
+        {
+          "mix": [
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        },
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Elemental Mastery > HP% > Flat HP > Crit Rate"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    },
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        },
+        {
+          "name": "Engulfing Lightning",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png"
+        },
+        {
+          "name": "The Catch",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png"
+        },
+        {
+          "name": "Kitain Cross Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png"
+        },
+        {
+          "name": "Prototype Starglitter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png"
+        },
+        {
+          "name": "Skyward Spine",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png"
+        },
+        {
+          "name": "Black Tassel",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png"
+        },
+        {
+          "name": "Rightful Reward",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Rightful_Reward.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+20% HP set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+20% ER set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "+20% ER set",
+              "rarity": 4,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / HP%"
+            },
+            {
+              "name": "Goblet - HP%"
+            },
+            {
+              "name": "Circlet - HP%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > HP% > Crit Rate > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

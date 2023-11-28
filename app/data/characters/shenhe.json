@@ -1,0 +1,147 @@
+{
+  "name": "Shenhe",
+  "weapon": "Polearm",
+  "region": "Liyue",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Shenhe.png",
+  "vision": {
+    "name": "Cryo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+  },
+  "build": [
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Calamity Queller",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png"
+        },
+        {
+          "name": "Engulfing Lightning",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png"
+        },
+        {
+          "name": "Vortex Vanquisher",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Vortex_Vanquisher.png"
+        },
+        {
+          "name": "Skyward Spine",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png"
+        },
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        },
+        {
+          "name": "Primordial Jade Winged-Spear",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png"
+        },
+        {
+          "name": "Lithic Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lithic_Spear.png"
+        },
+        {
+          "name": "Staff of Homa",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png"
+        },
+        {
+          "name": "Wavebreaker's Fin",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Wavebreaker's_Fin.png"
+        },
+        {
+          "name": "Missive Windspear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Missive_Windspear.png"
+        },
+        {
+          "name": "Prototype Starglitter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK% / Energy Recharge"
+            },
+            {
+              "name": "Goblet - ATK%"
+            },
+            {
+              "name": "Circlet - ATK%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > ATK% > Crit Rate / DMG > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "name": "Mika",
+  "weapon": "Polearm",
+  "region": "Mondstadt",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Mika.png",
+  "vision": {
+    "name": "Cryo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+  },
+  "build": [
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        },
+        {
+          "name": "Engulfing Lightning",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png"
+        },
+        {
+          "name": "Prototype Starglitter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png"
+        },
+        {
+          "name": "The Catch",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Catch.png"
+        },
+        {
+          "name": "Rightful Reward",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Rightful_Reward.png"
+        },
+        {
+          "name": "Black Tassel",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Black_Tassel.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        },
+        {
+          "name": "Ocean-Hued Clam",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+        },
+        {
+          "name": "Maiden Beloved",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/maiden_beloved.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+15% Healing Bonus set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/ocean-hued_clam.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "+20% HP set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            }
+          ]
+        },
+        {
+          "name": "The Exile",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/the_exile.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / HP%"
+            },
+            {
+              "name": "Goblet - HP%"
+            },
+            {
+              "name": "Circlet - Healing Bonus / Crit Rate"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate > HP% > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

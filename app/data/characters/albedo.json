@@ -1,0 +1,153 @@
+{
+  "name": "Albedo",
+  "weapon": "Sword",
+  "region": "Mondstadt",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Albedo.png",
+  "vision": {
+    "name": "Geo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+  },
+  "build": [
+    {
+      "role": "OFF-FIELD DPS",
+      "weapon": [
+        {
+          "name": "Cinnabar Spindle",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Cinnabar_Spindle.png"
+        },
+        {
+          "name": "Harbinger of Dawn",
+          "rarity": 3,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png"
+        },
+        {
+          "name": "Wolf-Fang",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Wolf-Fang.png"
+        },
+        {
+          "name": "Primordial Jade Cutter",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png"
+        },
+        {
+          "name": "Light of Foliar Incision",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png"
+        },
+        {
+          "name": "Haran Geppaku Futsu",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png"
+        },
+        {
+          "name": "Mistsplitter Reforged",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png"
+        },
+        {
+          "name": "Freedom-Sworn",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Freedom-Sworn.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+        },
+        {
+          "name": "Golden Troupe",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Husk of Opulent Dreams",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+            },
+            {
+              "name": "Archaic Petra",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png"
+            },
+            {
+              "name": "Golden Troupe",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+            }
+          ]
+        },
+        {
+          "name": "Archaic Petra",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/archaic_petra.png"
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - DEF%"
+            },
+            {
+              "name": "Goblet - Geo DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG / DEF%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > DEF% > ATK% > Energy Recharge"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

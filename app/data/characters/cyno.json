@@ -1,0 +1,353 @@
+{
+  "name": "Cyno",
+  "weapon": "Polearm",
+  "region": "Sumeru",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Cyno.png",
+  "vision": {
+    "name": "Electro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+  },
+  "build": [
+    {
+      "role": "QUICKBLOOM / HYPERBLOOM DPS",
+      "weapon": [
+        {
+          "name": "Staff of the Scarlet Sands",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png"
+        },
+        {
+          "name": "Ballad of the Fjords",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Ballad_of_the_Fjords.png"
+        },
+        {
+          "name": "Dragon's Bane",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Dragon's_Bane.png"
+        },
+        {
+          "name": "Primordial Jade Winged-Spear",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png"
+        },
+        {
+          "name": "Staff of Homa",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png"
+        },
+        {
+          "name": "White Tassel",
+          "rarity": 3,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/White_Tassel.png"
+        },
+        {
+          "name": "Missive Windspear",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Missive_Windspear.png"
+        },
+        {
+          "name": "Kitain Cross Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png"
+        },
+        {
+          "name": "Deathmatch",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png"
+        },
+        {
+          "name": "Skyward Spine",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png"
+        },
+        {
+          "name": "Moonpiercer",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Moonpiercer.png"
+        },
+        {
+          "name": "Engulfing Lightning",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Engulfing_Lightning.png"
+        },
+        {
+          "name": "Prototype Starglitter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png"
+        },
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Thundering Fury",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "name": "Flower of Paradise Lost",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+            },
+            {
+              "name": "Thundering Fury",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            }
+          ]
+        },
+        {
+          "name": "Gladiator's Finale",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+        },
+        {
+          "name": "Marechaussee Hunter",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/marechaussee_hunter.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Electro DMG / Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG / Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Elemental Mastery > Crit Rate / DMG > ATK%"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    },
+    {
+      "role": "AGGRAVATE DPS",
+      "weapon": [
+        {
+          "name": "Staff of the Scarlet Sands",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png"
+        },
+        {
+          "name": "Primordial Jade Winged-Spear",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png"
+        },
+        {
+          "name": "Staff of Homa",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png"
+        },
+        {
+          "name": "Ballad of the Fjords",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Ballad_of_the_Fjords.png"
+        },
+        {
+          "name": "Calamity Queller",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Calamity_Queller.png"
+        },
+        {
+          "name": "Deathmatch",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png"
+        },
+        {
+          "name": "White Tassel",
+          "rarity": 3,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/White_Tassel.png"
+        },
+        {
+          "name": "Skyward Spine",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Spine.png"
+        },
+        {
+          "name": "Kitain Cross Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png"
+        },
+        {
+          "name": "Missive Windspear",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Missive_Windspear.png"
+        },
+        {
+          "name": "Prototype Starglitter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Starglitter.png"
+        },
+        {
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Lance.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Thundering Fury",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+        },
+        {
+          "name": "Gladiator's Finale",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "Thundering Fury",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            },
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery / ATK%"
+            },
+            {
+              "name": "Goblet - Electro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate / DMG > ATK% > Elemental Mastery"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

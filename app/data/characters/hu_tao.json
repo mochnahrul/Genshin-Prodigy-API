@@ -1,0 +1,171 @@
+{
+  "name": "Hu Tao",
+  "weapon": "Polearm",
+  "region": "Liyue",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Hu%20Tao.png",
+  "vision": {
+    "name": "Pyro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Pyro.png"
+  },
+  "build": [
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Staff of Homa",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_Homa.png"
+        },
+        {
+          "name": "Staff of the Scarlet Sands",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Staff_of_the_Scarlet_Sands.png"
+        },
+        {
+          "name": "Ballad of the Fjords",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Ballad_of_the_Fjords.png"
+        },
+        {
+          "name": "Dragon's Bane",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Dragon's_Bane.png"
+        },
+        {
+          "name": "Deathmatch",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Deathmatch.png"
+        },
+        {
+          "name": "Primordial Jade Winged-Spear",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Winged-Spear.png"
+        },
+        {
+          "name": "Lithic Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lithic_Spear.png"
+        },
+        {
+          "name": "Missive Windspear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Missive_Windspear.png"
+        },
+        {
+          "name": "White Tassel",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/White_Tassel.png"
+        },
+        {
+          "name": "Blackcliff Pole",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Blackcliff_Pole.png"
+        },
+        {
+          "name": "Kitain Cross Spear",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kitain_Cross_Spear.png"
+        },
+        {
+          "name": "Rightful Reward",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Rightful_Reward.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Crimson Witch of Flames",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Crimson Witch of Flames",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/crimson_witch_of_flames.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+20% HP set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            }
+          ]
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - HP% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Pyro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > Elemental Mastery > HP% > ATK% > Energy Recharge"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    }
+  ]
+}

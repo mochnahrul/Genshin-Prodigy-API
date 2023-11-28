@@ -1,0 +1,339 @@
+{
+  "name": "Fischl",
+  "weapon": "Bow",
+  "region": "Mondstadt",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Fischl.png",
+  "vision": {
+    "name": "Electro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Electro.png"
+  },
+  "build": [
+    {
+      "role": "OFF-FIELD DPS",
+      "weapon": [
+        {
+          "name": "Polar Star",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png"
+        },
+        {
+          "name": "Aqua Simulacra",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png"
+        },
+        {
+          "name": "Skyward Harp",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png"
+        },
+        {
+          "name": "Thundering Pulse",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png"
+        },
+        {
+          "name": "Hunter's Path",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png"
+        },
+        {
+          "name": "Amos' Bow",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Amos'_Bow.png"
+        },
+        {
+          "name": "Alley Hunter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Alley_Hunter.png"
+        },
+        {
+          "name": "The Viridescent Hunt",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Viridescent_Hunt.png"
+        },
+        {
+          "name": "Elegy for the End",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png"
+        },
+        {
+          "name": "Fading Twilight",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fading_Twilight.png"
+        },
+        {
+          "name": "The Stringless",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png"
+        },
+        {
+          "name": "Prototype Crescent",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Crescent.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Golden Troupe",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Thundering Fury",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            }
+          ]
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+            }
+          ]
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK%"
+            },
+            {
+              "name": "Goblet - Electro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Energy Recharge > Elemental Mastery > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+
+        {
+          "name": "-"
+        }
+      ]
+    },
+    {
+      "role": "OFF-FIELD AGGRAVATE DPS",
+      "weapon": [
+        {
+          "name": "Polar Star",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png"
+        },
+        {
+          "name": "Aqua Simulacra",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png"
+        },
+        {
+          "name": "Hunter's Path",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png"
+        },
+        {
+          "name": "Skyward Harp",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Harp.png"
+        },
+        {
+          "name": "Thundering Pulse",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png"
+        },
+        {
+          "name": "The Stringless",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png"
+        },
+        {
+          "name": "The Viridescent Hunt",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Viridescent_Hunt.png"
+        },
+        {
+          "name": "Alley Hunter",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Alley_Hunter.png"
+        },
+        {
+          "name": "Windblume Ode",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Windblume_Ode.png"
+        },
+        {
+          "name": "Fading Twilight",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fading_Twilight.png"
+        },
+        {
+          "name": "Slingshot",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Slingshot.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Golden Troupe",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Thundering Fury",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        },
+        {
+          "mix": [
+            {
+              "name": "Thundering Fury",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            }
+          ]
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "name": "Thundering Fury",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundering_fury.png"
+        },
+        {
+          "name": "Thundersoother",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/thundersoother.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Electro DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Elemental Mastery > Energy Recharge > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

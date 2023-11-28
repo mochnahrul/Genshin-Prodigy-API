@@ -1,0 +1,117 @@
+{
+  "name": "Sucrose",
+  "weapon": "Catalyst",
+  "region": "Mondstadt",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Sucrose.png",
+  "vision": {
+    "name": "Anemo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+  },
+  "build": [
+    {
+      "role": "EM BUILD",
+      "weapon": [
+        {
+          "name": "A Thousand Floating Dreams",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png"
+        },
+        {
+          "name": "Sacrificial Fragments",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png"
+        },
+        {
+          "name": "Thrilling Tales of Dragon Slayers",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png"
+        },
+        {
+          "name": "Hakushin Ring",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png"
+        },
+        {
+          "name": "Magic Guide",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Magic_Guide.png"
+        },
+        {
+          "name": "Favonius Codex",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Codex.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Viridescent Venerer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Elemental Mastery > Energy Recharge > ATK% > Crit Rate / DMG"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "-"
+        }
+      ]
+    }
+  ]
+}

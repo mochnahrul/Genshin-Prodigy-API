@@ -1,0 +1,185 @@
+{
+  "name": "Kamisato Ayaka",
+  "weapon": "Sword",
+  "region": "Inazuma",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Ayaka.png",
+  "vision": {
+    "name": "Cryo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+  },
+  "build": [
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Mistsplitter Reforged",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mistsplitter_Reforged.png"
+        },
+        {
+          "name": "Haran Geppaku Futsu",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Haran_Geppaku_Futsu.png"
+        },
+        {
+          "name": "Light of Foliar Incision",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Light_of_Foliar_Incision.png"
+        },
+        {
+          "name": "Primordial Jade Cutter",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Primordial_Jade_Cutter.png"
+        },
+        {
+          "name": "Summit Shaper",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Summit_Shaper.png"
+        },
+        {
+          "name": "Finale of the Deep",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Finale_of_the_Deep.png"
+        },
+        {
+          "name": "Aquila Favonia",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aquila_Favonia.png"
+        },
+        {
+          "name": "Skyward Blade",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Blade.png"
+        },
+        {
+          "name": "Finale of the Deep",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Finale_of_the_Deep.png"
+        },
+        {
+          "name": "Amenoma Kageuchi",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Amenoma_Kageuchi.png"
+        },
+        {
+          "name": "The Black Sword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Black_Sword.png"
+        },
+        {
+          "name": "Kagotsurube Isshin",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kagotsurube_Isshin.png"
+        },
+        {
+          "name": "Harbinger of Dawn",
+          "rarity": 3,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Harbinger_of_Dawn.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Blizzard Strayer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Blizzard Strayer",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            }
+          ]
+        },
+        {
+          "mix": [
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+            }
+          ]
+        },
+        {
+          "mix": [
+            {
+              "name": "Blizzard Strayer",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            },
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK%"
+            },
+            {
+              "name": "Goblet - Cryo DMG"
+            },
+            {
+              "name": "Circlet - Crit DMG / ATK%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit DMG > ATK% > Energy Recharge > Crit Rate > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Skill"
+        }
+      ]
+    }
+  ]
+}

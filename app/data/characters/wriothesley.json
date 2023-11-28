@@ -1,0 +1,299 @@
+{
+  "name": "Wriothesley",
+  "weapon": "Catalyst",
+  "region": "Fontaine",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Wriothesley.png",
+  "vision": {
+    "name": "Cryo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Cryo.png"
+  },
+  "build": [
+    {
+      "role": "MELT DPS",
+      "weapon": [
+        {
+          "name": "Cashflow Supervision",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Cashflow_Supervision.png"
+        },
+        {
+          "name": "Tulaytullah's Remembrance",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Tulaytullah's_Remembrance.png"
+        },
+        {
+          "name": "A Thousand Floating Dreams",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png"
+        },
+        {
+          "name": "Lost Prayer to the Sacred Winds",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png"
+        },
+        {
+          "name": "Tome of the Eternal Flow",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Tome_of_the_Eternal_Flow.png"
+        },
+        {
+          "name": "Skyward Atlas",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png"
+        },
+        {
+          "name": "Mappa Mare",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mappa_Mare.png"
+        },
+        {
+          "name": "The Widsith",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png"
+        },
+        {
+          "name": "Ballad of the Boundless Blue",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Ballad_of_the_Boundless_Blue.png"
+        },
+        {
+          "name": "Flowing Purity",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Flowing_Purity.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Marechaussee Hunter",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/marechaussee_hunter.png"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "name": "Echoes of an Offering",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/echoes_of_an_offering.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Blizzard Strayer",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Cryo DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Elemental Mastery > Flat ATK"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    },
+    {
+      "role": "MONO CRYO / FREEZE DPS",
+      "weapon": [
+        {
+          "name": "Cashflow Supervision",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Cashflow_Supervision.png"
+        },
+        {
+          "name": "Tulaytullah's Remembrance",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Tulaytullah's_Remembrance.png"
+        },
+        {
+          "name": "Memory of Dust",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Memory_of_Dust.png"
+        },
+        {
+          "name": "Tome of the Eternal Flow",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Tome_of_the_Eternal_Flow.png"
+        },
+        {
+          "name": "Kagura's Verity",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png"
+        },
+        {
+          "name": "Lost Prayer to the Sacred Winds",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png"
+        },
+        {
+          "name": "Skyward Atlas",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png"
+        },
+        {
+          "name": "Ballad of the Boundless Blue",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Ballad_of_the_Boundless_Blue.png"
+        },
+        {
+          "name": "The Widsith",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png"
+        },
+        {
+          "name": "Flowing Purity",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Flowing_Purity.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Marechaussee Hunter",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/marechaussee_hunter.png"
+        },
+        {
+          "name": "Blizzard Strayer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+        },
+        {
+          "name": "Shimenawa's Reminiscence",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/shimenawa's_reminiscence.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Blizzard Strayer",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/blizzard_strayer.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "Marechaussee Hunter",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/marechaussee_hunter.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK%"
+            },
+            {
+              "name": "Goblet - Cryo DMG"
+            },
+            {
+              "name": "Circlet - Crit DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Flat ATK > Energy Recharge"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    }
+  ]
+}

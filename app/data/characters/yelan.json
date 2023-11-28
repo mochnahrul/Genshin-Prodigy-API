@@ -1,0 +1,239 @@
+{
+  "name": "Yelan",
+  "weapon": "Bow",
+  "region": "Liyue",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Yelan.png",
+  "vision": {
+    "name": "Hydro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Hydro.png"
+  },
+  "build": [
+    {
+      "role": "HIGH ENERGY REQUIREMENT (OFF-FIELD DPS)",
+      "weapon": [
+        {
+          "name": "Elegy for the End",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Elegy_for_the_End.png"
+        },
+        {
+          "name": "Favonius Warbow",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Warbow.png"
+        },
+        {
+          "name": "Aqua Simulacra",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png"
+        },
+        {
+          "name": "Sacrificial Bow",
+          "rarity": 4,
+          "refine": 3,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Bow.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            },
+            {
+              "name": "+15% Hydro DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+            },
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / HP%"
+            },
+            {
+              "name": "Goblet - Hydro DMG / HP%"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG / HP%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > HP% > Crit Rate / DMG > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Normal Attack"
+        }
+      ]
+    },
+    {
+      "role": "LOW ENERGY REQUIREMENT (OFF-FIELD DPS)",
+      "weapon": [
+        {
+          "name": "Aqua Simulacra",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Aqua_Simulacra.png"
+        },
+        {
+          "name": "Mouun's Moon",
+          "rarity": 4,
+          "refine": 3,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mouun's_Moon.png"
+        },
+        {
+          "name": "The Stringless",
+          "rarity": 4,
+          "refine": 3,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Stringless.png"
+        },
+        {
+          "name": "Slingshot",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Slingshot.png"
+        },
+        {
+          "name": "Hunter's Path",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hunter's_Path.png"
+        },
+        {
+          "name": "Polar Star",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Polar_Star.png"
+        },
+        {
+          "name": "Thundering Pulse",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thundering_Pulse.png"
+        },
+        {
+          "name": "Fading Twilight",
+          "rarity": 4,
+          "refine": 5,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Fading_Twilight.png"
+        },
+        {
+          "name": "Recurve Bow",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Recurve_Bow.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Emblem of Severed Fate",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Emblem of Severed Fate",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/emblem_of_severed_fate.png"
+            },
+            {
+              "name": "Tenacity of the Millelith",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+            },
+            {
+              "name": "+15% Hydro DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/heart_of_depth.png"
+            },
+            {
+              "name": "Noblesse Oblige",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge / HP%"
+            },
+            {
+              "name": "Goblet - Hydro DMG / HP%"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG / HP%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > HP% > Crit Rate / DMG > Flat HP"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Normal Attack"
+        }
+      ]
+    }
+  ]
+}

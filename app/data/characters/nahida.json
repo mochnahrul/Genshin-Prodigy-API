@@ -1,0 +1,189 @@
+{
+  "name": "Nahida",
+  "weapon": "Catalyst",
+  "region": "Sumeru",
+  "rarity": 5,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Nahida.png",
+  "vision": {
+    "name": "Dendro",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Dendro.png"
+  },
+  "build": [
+    {
+      "role": "DPS & SUPPORT",
+      "weapon": [
+        {
+          "name": "A Thousand Floating Dreams",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/A_Thousand_Floating_Dreams.png"
+        },
+        {
+          "name": "Kagura's Verity",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png"
+        },
+        {
+          "name": "Sacrificial Fragments",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png"
+        },
+        {
+          "name": "Wandering Evenstar",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Wandering_Evenstar.png"
+        },
+        {
+          "name": "The Widsith",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png"
+        },
+        {
+          "name": "Skyward Atlas",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png"
+        },
+        {
+          "name": "Lost Prayer to the Sacred Winds",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png"
+        },
+        {
+          "name": "Memory of Dust",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Memory_of_Dust.png"
+        },
+        {
+          "name": "Solar Pearl",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Solar_Pearl.png"
+        },
+        {
+          "name": "Favonius Codex",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Codex.png"
+        },
+        {
+          "name": "Mappa Mare",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mappa_Mare.png"
+        },
+        {
+          "name": "Magic Guide",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Magic_Guide.png"
+        },
+        {
+          "name": "Hakushin Ring",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png"
+        },
+        {
+          "name": "Thrilling Tales of Dragon Slayers",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png"
+        },
+        {
+          "name": "Prototype Amber",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Deepwood Memories",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+        },
+        {
+          "name": "Gilded Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gilded_dreams.png"
+            },
+            {
+              "name": "Deepwood Memories",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/deepwood_memories.png"
+            }
+          ]
+        },
+        {
+          "name": "Tenacity of the Millelith",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/tenacity_of_the_millelith.png"
+        },
+        {
+          "name": "Flower of Paradise Lost",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/flower_of_paradise_lost.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands -  Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Elemental Mastery / Dendro DMG"
+            },
+            {
+              "name": "Circlet - Elemental Mastery / Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Energy Recharge > Crit Rate / DMG > Elemental Mastery > ATK%"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Normal Attack"
+        }
+      ]
+    }
+  ]
+}

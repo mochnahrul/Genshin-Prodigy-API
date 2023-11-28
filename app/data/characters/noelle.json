@@ -1,0 +1,153 @@
+{
+  "name": "Noelle",
+  "weapon": "Claymore",
+  "region": "Mondstadt",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Noelle.png",
+  "vision": {
+    "name": "Geo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Geo.png"
+  },
+  "build": [
+    {
+      "role": "DPS",
+      "weapon": [
+        {
+          "name": "Redhorn Stonethresher",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Redhorn_Stonethresher.png"
+        },
+        {
+          "name": "Serpent Spine",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Serpent_Spine.png"
+        },
+        {
+          "name": "Skyward Pride",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Pride.png"
+        },
+        {
+          "name": "Whiteblind",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Whiteblind.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Marechaussee Hunter",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/marechaussee_hunter.png"
+        },
+        {
+          "name": "Husk of Opulent Dreams",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/husk_of_opulent_dreams.png"
+        },
+        {
+          "name": "Retracing Bolide",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/retracing_bolide.png"
+        },
+        {
+          "name": "Gladiator's Finale",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - DEF% / ATK%"
+            },
+            {
+              "name": "Goblet - Geo DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > Energy Recharge > DEF%"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Burst"
+        },
+        {
+          "name": "Elemental Skill"
+        }
+      ]
+    },
+    {
+      "role": "DRIVER",
+      "weapon": [
+        {
+          "name": "Favonius Greatsword",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Favonius_Greatsword.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Archaic Petra",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/marechaussee_hunter.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - DEF%"
+            },
+            {
+              "name": "Goblet - Geo DMG / DEF%"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG / DEF%"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > Energy Recharge > DEF%"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    }
+  ]
+}

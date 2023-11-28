@@ -1,0 +1,333 @@
+{
+  "name": "Shikanoin Heizou",
+  "weapon": "Catalyst",
+  "region": "Inazuma",
+  "rarity": 4,
+  "image": "https://rerollcdn.com/GENSHIN/Characters/1/Heizou.png",
+  "vision": {
+    "name": "Anemo",
+    "image": "https://rerollcdn.com/GENSHIN/Elements/Element_Anemo.png"
+  },
+  "build": [
+    {
+      "role": "ANEMO DPS",
+      "weapon": [
+        {
+          "name": "Kagura's Verity",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png"
+        },
+        {
+          "name": "Skyward Atlas",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png"
+        },
+        {
+          "name": "Lost Prayer to the Sacred Winds",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png"
+        },
+        {
+          "name": "Memory of Dust",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Memory_of_Dust.png"
+        },
+        {
+          "name": "Sacrificial Fragments",
+          "rarity": 4,
+          "refine": 3,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png"
+        },
+        {
+          "name": "The Widsith",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/The_Widsith.png"
+        },
+        {
+          "name": "Mappa Mare",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mappa_Mare.png"
+        },
+        {
+          "name": "Solar Pearl",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Solar_Pearl.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Viridescent Venerer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+        },
+        {
+          "name": "Golden Troupe",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "Golden Troupe",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+            },
+            {
+              "name": "+15% Anemo DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            }
+          ]
+        },
+        {
+          "name": "Desert Pavilion Chronicle",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/desert_pavilion_chronicle.png"
+        },
+        {
+          "mix": [
+            {
+              "name": "+15% Anemo DMG set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+            },
+            {
+              "name": "Golden Troupe",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/golden_troupe.png"
+            },
+            {
+              "name": "+18% ATK set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/gladiator's_finale.png"
+            },
+            {
+              "name": "+80 EM set",
+              "rarity": 5,
+              "piece": 2,
+              "image": "https://rerollcdn.com/GENSHIN/Gear/wanderer's_troupe.png"
+            }
+          ]
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - ATK%"
+            },
+            {
+              "name": "Goblet - Anemo DMG"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Crit Rate / DMG > ATK% > Energy Recharge > Elemental Mastery"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    },
+    {
+      "role": "EM DPS",
+      "weapon": [
+        {
+          "name": "Skyward Atlas",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Skyward_Atlas.png"
+        },
+        {
+          "name": "Sacrificial Fragments",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Sacrificial_Fragments.png"
+        },
+        {
+          "name": "Kagura's Verity",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Kagura's_Verity.png"
+        },
+        {
+          "name": "Lost Prayer to the Sacred Winds",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Lost_Prayer_to_the_Sacred_Winds.png"
+        },
+        {
+          "name": "Magic Guide",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Magic_Guide.png"
+        },
+        {
+          "name": "Memory of Dust",
+          "rarity": 5,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Memory_of_Dust.png"
+        },
+        {
+          "name": "Mappa Mare",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Mappa_Mare.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Viridescent Venerer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Elemental Mastery > ATK% > Energy Recharge > Crit Rate"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    },
+    {
+      "role": "SUPPORT",
+      "weapon": [
+        {
+          "name": "Thrilling Tales of Dragon Slayers",
+          "rarity": 3,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Thrilling_Tales_of_Dragon_Slayers.png"
+        },
+        {
+          "name": "Hakushin Ring",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Hakushin_Ring.png"
+        },
+        {
+          "name": "Prototype Amber",
+          "rarity": 4,
+          "refine": 0,
+          "image": "https://rerollcdn.com/GENSHIN/Weapons/Prototype_Amber.png"
+        }
+      ],
+      "artifact": [
+        {
+          "name": "Viridescent Venerer",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/viridescent_venerer.png"
+        },
+        {
+          "name": "Instructor",
+          "rarity": 4,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/instructor.png"
+        },
+        {
+          "name": "Noblesse Oblige",
+          "rarity": 5,
+          "piece": 4,
+          "image": "https://rerollcdn.com/GENSHIN/Gear/noblesse_oblige.png"
+        }
+      ],
+      "artifactStats": [
+        {
+          "mainStats": [
+            {
+              "name": "Sands - Energy Recharge% / ATK% / Elemental Mastery"
+            },
+            {
+              "name": "Goblet - Anemo DMG / Elemental Mastery"
+            },
+            {
+              "name": "Circlet - Crit Rate / DMG / Elemental Mastery"
+            }
+          ]
+        },
+        {
+          "subStats": [
+            {
+              "name": "Substats - Elemental Mastery > ATK% > Energy Recharge > Crit Rate"
+            }
+          ]
+        }
+      ],
+      "talentPriority": [
+        {
+          "name": "Elemental Skill"
+        },
+        {
+          "name": "Normal Attack"
+        },
+        {
+          "name": "Elemental Burst"
+        }
+      ]
+    }
+  ]
+}

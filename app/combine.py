@@ -1,7 +1,9 @@
+# third-party imports
 import json
 import os
 
-def combine_name_and_image(directory):
+
+def combine_characters(directory):
   combined_data = []
 
   for filename in os.listdir(directory):
@@ -25,7 +27,7 @@ def combine_name_and_image(directory):
 
   print("Characters data is successfully combined and stored in character.json")
 
-def combine_all_data(directory):
+def combine_builds(directory):
   combined_data = []
 
   for filename in os.listdir(directory):
@@ -45,5 +47,5 @@ def combine_all_data(directory):
 if __name__ == "__main__":
   data_directory = "data/characters"
 
-  combine_name_and_image(data_directory)
-  combine_all_data(data_directory)
+  combine_characters(data_directory)
+  combine_builds(data_directory)
